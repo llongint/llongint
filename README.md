@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @llongint
 - 👀 I’m interested in gcc/g++/clang/flang 等编译工具
-- 🌱 I’m currently learning llvm project
+- 🌱 I’m currently working on llvm-bolt
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 
